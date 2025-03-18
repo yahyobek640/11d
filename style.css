@@ -1,0 +1,53 @@
+body {
+    background-color: #2C3E50;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+.container {
+    width: 80%;
+    margin: 20px auto;
+    background-color: #3B4C5E;
+    padding: 20px;
+    border-radius: 10px;
+}
+h1 {
+    color: white;
+}
+img {
+    width: 80%;
+    border-radius: 10px;
+}
+table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid white;
+    padding: 10px;
+}
+th {
+    background-color: #E67E22;
+}
+.section {
+    margin-top: 20px;
+}
+.card {
+    background-color: #1F2A36;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 15px auto;
+    width: 50%;
+}
+.card img {
+    width: 100%;
+    border-radius: 10px;
+}
+.card h3 {
+    color: #F39C12;
+}
+.eski{
+    width: 400px;
+    height: 300px; ;
+}
